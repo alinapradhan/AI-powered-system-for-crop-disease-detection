@@ -100,7 +100,7 @@ python main.py predict path/to/your/plant_image.jpg --save
 ```
 
 ## Project Structure
-
+ 
 ```
 ├── main.py                 # Main CLI interface
 ├── requirements.txt        # Python dependencies
